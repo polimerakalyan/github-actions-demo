@@ -1,1 +1,1 @@
-print("GitHub Actions CI/CD Working")
+print("GitHub Actions of  CI/CD Working")
